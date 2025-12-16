@@ -32,6 +32,8 @@ selected outputs and methodological summaries for demonstration purposes.
 ## SELECTED FIGURES
 <img width="846" height="392" alt="Screenshot 2025-12-16 142252" src="https://github.com/user-attachments/assets/df65c9e7-5509-4b1e-a6ec-fdd600e612d0" />
 
+<img width="846" height="459" alt="Screenshot 2025-12-16 142307" src="https://github.com/user-attachments/assets/56dbb986-07c4-465d-b5ce-d210a1e68b0c" />
+
 
 
 ## FULL REPORT 
