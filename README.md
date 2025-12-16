@@ -44,4 +44,4 @@ selected outputs and methodological summaries for demonstration purposes.
 ## PROJECT INFO
 - Year: 2023
 - Institution: Universitas Gadjah Mada
-- Program: UNDP – KALimantan Forest Project 
+- Program: UNDP – Kalimantan Forest Project 
