@@ -35,7 +35,7 @@ selected outputs and methodological summaries for demonstration purposes.
 <img width="846" height="459" alt="Screenshot 2025-12-16 142307" src="https://github.com/user-attachments/assets/56dbb986-07c4-465d-b5ce-d210a1e68b0c" />
 
 
-<img width="1073" height="434" alt="Screenshot 2025-12-16 151712" src="https://github.com/user-attachments/assets/677ef46b-2328-4b97-92e6-7ce30d038d55" />
+<img width="846" height="434" alt="Screenshot 2025-12-16 151712" src="https://github.com/user-attachments/assets/677ef46b-2328-4b97-92e6-7ce30d038d55" />
 
 ## FULL REPORT 
 - [Download PDF for Sanggau Regency] (https://github.com/fannyruee/UNDP-HCV/releases/v1.0)
