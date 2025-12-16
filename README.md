@@ -30,7 +30,9 @@ Due to data-sharing agreements and project confidentiality, the full datasets
 and detailed workflows are not publicly available. The repository presents
 selected outputs and methodological summaries for demonstration purposes.
 ## SELECTED FIGURES
-![BIODIVERSITY KALIMANTAN] (https://github.com/fannyruee/UNDP-HCV/blob/d43c6fa9f61168cd58fe7b808f0a7e7cff7a7d27/figures/biodiversity.png)
+![BIODIVERSITY KALIMANTAN] (https://github.com/fannyruee/UNDP-HCV/blob/d43c6fa9f61168cd58fe7b808f0a7e7cff7a7d27/figures/biodiversity.png) 
+<img src="figures/map.png" width="600">
+
 
 ## FULL REPORT 
 [Download PDF for Sanggau Regency] (https://github.com/fannyruee/UNDP-HCV/releases/v1.0)
