@@ -30,8 +30,8 @@ Due to data-sharing agreements and project confidentiality, the full datasets
 and detailed workflows are not publicly available. The repository presents
 selected outputs and methodological summaries for demonstration purposes.
 ## SELECTED FIGURES
-![BIODIVERSITY KALIMANTAN] (https://github.com/fannyruee/UNDP-HCV/blob/d43c6fa9f61168cd58fe7b808f0a7e7cff7a7d27/figures/biodiversity.png)
-<img src="(https://github.com/fannyruee/UNDP-HCV/blob/d43c6fa9f61168cd58fe7b808f0a7e7cff7a7d27/figures/biodiversity.png)" width="400">
+<img width="846" height="392" alt="Screenshot 2025-12-16 142252" src="https://github.com/user-attachments/assets/df65c9e7-5509-4b1e-a6ec-fdd600e612d0" />
+
 
 
 ## FULL REPORT 
