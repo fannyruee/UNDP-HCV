@@ -33,7 +33,7 @@ selected outputs and methodological summaries for demonstration purposes.
 
 ## FULL REPORT 
 [Download PDF for Sanggau Regency] (https://github.com/fannyruee/UNDP-HCV/releases/latest)
-[Download PDF for Kutai Kartanegara Regency] 
+[Download PDF for Kutai Kartanegara Regency] ((https://github.com/fannyruee/UNDP-HCV/releases/v2.0)
 
 ## PROJECT INFO
 - Year: 2023
