@@ -32,7 +32,7 @@ selected outputs and methodological summaries for demonstration purposes.
 ## SELECTED FIGURES
 
 ## FULL REPORT 
-[Download PDF for Sanggau Regency] 
+[Download PDF for Sanggau Regency] (https://github.com/fannyruee/UNDP-HCV/releases/latest)
 [Download PDF for Kutai Kartanegara Regency] 
 
 ## PROJECT INFO
